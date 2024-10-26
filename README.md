@@ -1,4 +1,13 @@
 ## Hi there 👋
+Soy Don Kernel, programador con experiencia en el desarrollo de aplicaciones móviles y web.
+
+En mi página encontrarán una breve carta de perfil, sobre mi aprendizaje, experiencia y metas.
+
+Este es un perfil anónimo; mis datos personales, certificados y experiencia serán revelados en una entrevista personal.
+
+Mi página de GitHub: https://don-kernel.github.io/don-kernel/
+Correo de contacto: don.kernel.dev@gmail.com
+
 
 <!--
 **don-kernel/don-kernel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
